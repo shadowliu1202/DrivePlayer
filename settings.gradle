@@ -1,0 +1,1 @@
+include ':fullplayer', ':app', ':base', ':instantapp'
